@@ -1,0 +1,11 @@
+h1{
+  color: pink;
+  text-align: center;
+  font-style: oblique;
+  font-size: 50px;
+}
+li{
+  text-align: center;
+  list-style-type: none;
+  font-size: 30px;
+}
